@@ -1,0 +1,9 @@
+ipykernel
+langchain_community
+python-dotenv
+bs4
+pypdf
+openai
+chromadb
+tiktoken
+faiss-cpu
